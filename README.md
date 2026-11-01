@@ -1,10 +1,8 @@
 <div align="center">
 
-# Ayomide Olamilekan
+# Olamilekan Adebanjo
 
-### Technology • Building projects • Exploring startup ideas
-
-I’m exploring technology by building and learning in public. My goal is to grow as a developer and eventually build a startup that solves real problems.
+### ICT student building projects, learning in public, and exploring startups.
 
 [GitHub](https://github.com/lekanay2005-coder) · [LinkedIn](https://www.linkedin.com/in/olamilekan-adebanjo-758143382/)
 
