@@ -1,10 +1,12 @@
-0<div align="center">
+<div align="center">
 
 # Olamilekan Adebanjo
 
-**ICT student building projects, learning in public, and exploring startups.**
+### Young aspiring startup founder · Web development · Learning in public
 
-[GitHub](https://github.com/lekanay2005-coder) · [LinkedIn](https://www.linkedin.com/in/olamilekan-adebanjo-758143382/) · [DEV](https://dev.to/olamilekan_adebanjo_26361) · [X](https://x.com/lekanay2005)
+<img src="assets/build-learn-share.gif" alt="Building, learning, sharing" width="760">
+
+*Learning in public and turning ideas into useful things.*
 
 </div>
 
@@ -12,40 +14,36 @@
 
 ## About me
 
-I’m learning by building practical projects and sharing what I discover along the way. I’m interested in software, useful products, and how ideas grow into startups.
+I’m learning by building projects and sharing what I discover along the way. I started learning web development in late 2018 and have continued through online courses and hands-on practice. I now have a few projects in my name, and I’ll add them here as they’re ready to share.
 
-- **Currently:** Developing my software skills through hands-on projects
-- **Interested in:** Software development, product ideas, and startups
-- **Languages in my projects:** Go and TypeScript
+## Projects
 
-## Featured projects
-
-| Project | What it is |
-| --- | --- |
-| [New-GenX](https://github.com/lekanay2005-coder/New-GenX) | A TypeScript project |
-| [ascii-art-web](https://github.com/lekanay2005-coder/ascii-art-web) | A web project for creating ASCII art |
-| [go-reloaded](https://github.com/lekanay2005-coder/go-reloaded) | A Go project |
-| [art](https://github.com/lekanay2005-coder/art) · [art-2](https://github.com/lekanay2005-coder/art-2) · [color](https://github.com/lekanay2005-coder/color) | More projects in Go |
+I’m preparing a project showcase. I’ll add project highlights here as I continue building.
 
 ## What I’m focused on
 
-- Building projects to improve my development skills
-- Learning how to turn problems into useful products
-- Exploring the startup journey and sharing my progress
+- Growing my web development skills through hands-on work
+- Building useful projects and learning from each one
+- Exploring ideas that could grow into a startup
+- Sharing what I learn along the way
 
 ## Find me online
 
-- [GitHub](https://github.com/lekanay2005-coder)
-- [LinkedIn](https://www.linkedin.com/in/olamilekan-adebanjo-758143382/)
-- [Instagram](https://www.instagram.com/ayomide_lekan_the_one/)
-- [X](https://x.com/lekanay2005)
-- [DEV Community](https://dev.to/olamilekan_adebanjo_26361)
-- [TikTok](https://www.tiktok.com/@olamilekanadebanjo0?lang=en)
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lekanay2005-coder)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olamilekan-adebanjo-758143382/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ayomide_lekan_the_one/)
+[![X](https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white)](https://x.com/lekanay2005)
+[![DEV](https://img.shields.io/badge/DEV-111111?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/olamilekan_adebanjo_26361)
+[![TikTok](https://img.shields.io/badge/TikTok-111111?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@olamilekanadebanjo0?lang=en)
+
+</div>
 
 ---
 
 <div align="center">
 
-*Building, learning, and sharing one project at a time.*
+*Building with purpose. Learning as I go.*
 
 </div>
