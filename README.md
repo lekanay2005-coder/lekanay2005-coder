@@ -4,6 +4,8 @@
 
 ### Young aspiring startup founder · Web development · Learning in public
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1200&color=5CA7FF&center=true&vCenter=true&width=760&lines=Building+web+and+mobile+projects;Exploring+AI+and+Stellar+development;Learning+in+public%2C+one+project+at+a+time" alt="Building web and mobile projects, exploring AI and Stellar, and learning in public">
+
 <img src="assets/build-learn-share.gif" alt="Building, learning, sharing" width="760">
 
 *Learning in public and turning ideas into useful things.*
@@ -16,27 +18,43 @@
 
 I’m learning by building projects and sharing what I discover along the way. I started learning web development in late 2018 and have continued through online courses and hands-on practice. I now have a few projects in my name, and I’ll add them here as they’re ready to share.
 
-## Contribution activity
+## Tech Stack
 
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lekanay2005-coder/lekanay2005-coder/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lekanay2005-coder/lekanay2005-coder/output/github-snake.svg">
-  <img src="https://raw.githubusercontent.com/lekanay2005-coder/lekanay2005-coder/output/github-snake.svg" alt="Animated snake following my GitHub contribution graph">
-</picture>
-</div>
+*Languages below appear in my public repositories. Other badges show tools and technologies found in my projects or that I’m currently exploring.*
 
-*This contribution snake refreshes automatically each day.*
+**Languages · in my public repos**
 
-## Languages & technologies
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
-<div align="center">
-<img src="assets/tech-carousel.gif" alt="Animated carousel of 17 languages and technologies" width="100%">
-</div>
+**Frontend**
 
-**Languages in my public repositories:** Go · TypeScript · Rust · JavaScript · Kotlin
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white) ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge)
 
-**Learning and exploring:** Python · C++ · C# · Java · PHP · Ruby · HTML · CSS · React · Node.js · SQL · ROS
+*Exploring Zod for frontend schema validation.*
+
+**Mobile**
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+
+**Backend & Data**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
+
+**AI & Agents**
+
+![Model Context Protocol](https://img.shields.io/badge/Model_Context_Protocol-324A5F?style=for-the-badge) ![LLM APIs](https://img.shields.io/badge/LLM_APIs-6E56CF?style=for-the-badge) ![Approval-gated automation](https://img.shields.io/badge/Approval-gated_automation-3156A3?style=for-the-badge)
+
+**Stellar & Web3**
+
+![Stellar](https://img.shields.io/badge/Stellar-000000?style=for-the-badge&logo=stellar&logoColor=white) ![Soroban](https://img.shields.io/badge/Soroban-7D00FF?style=for-the-badge) ![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white) ![Midnight](https://img.shields.io/badge/Midnight-292C55?style=for-the-badge)
+
+**Testing, Tooling & Infra**
+
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white) ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+**Learning & exploring**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge)
 
 ## AI, coding & learning tools
 
@@ -69,13 +87,52 @@ Claude · Codex · GitHub Copilot · Freebo · Coursera · Kilo Code · OpenCode
 - Exploring ideas that could grow into a startup
 - Sharing what I learn along the way
 
-## Projects, organized
+## What I Build
 
 <div align="center">
 <img src="assets/project-categories.gif" alt="Animated project categories: Stellar, Drips, AI, web products, developer tools, and learning projects" width="100%">
 </div>
 
-Here are my **80 public repositories**, grouped using their names and visible descriptions. Repositories marked **fork** are identified by GitHub as forks. Some projects have little public detail, so those groupings are broad until I add fuller descriptions.
+A few projects and contributions from my public work. **Fork** marks repositories GitHub identifies as forks.
+
+### More Payments
+
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [SoloCart AI](https://github.com/lekanay2005-coder/solocart-ai) | An AI checkout workspace for solo sellers, with a browser seller desk and a companion mobile app. | Node.js, TypeScript, Expo, React Native |
+| [SplitLock](https://github.com/lekanay2005-coder/splitlock-app) · [contract](https://github.com/lekanay2005-coder/splitlock-contract) | Stellar escrow for proportional split payments or refunds. | React, Express, Stellar SDK, Rust, Soroban |
+| [Receiptor](https://github.com/lekanay2005-coder/Receiptor) | Verifiable receipts and off-chain accounting for settled x402 payments on Stellar. | TypeScript, Next.js, Rust, Soroban |
+| [TrusTrove](https://github.com/lekanay2005-coder/TrusTrove-app) · fork | Trade finance on Stellar, using invoice assets and a USDC liquidity pool. | TypeScript, Stellar |
+| [Agora](https://github.com/lekanay2005-coder/agora) · fork | Events and ticketing with low-cost USDC payments on Stellar. | Stellar, web app |
+
+### More AI and Agents
+
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [Pulsar](https://github.com/lekanay2005-coder/pulsar) · fork | An MCP server that connects AI coding assistants to Stellar and Soroban. | MCP, Stellar, Soroban |
+| [x402 LLM Utilities](https://github.com/lekanay2005-coder/x402-llm-utils) | Pay-per-call token counting, embeddings, moderation, and document parsing, with Soroban escrow. | TypeScript, Rust, Soroban |
+| [Soter](https://github.com/lekanay2005-coder/Soter) · fork | Humanitarian aid distribution with on-chain escrow and an AI service for verification tasks. | Next.js, NestJS, Expo, FastAPI, Soroban |
+
+### More Web Products
+
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [PetAd](https://github.com/lekanay2005-coder/PetAd-Frontend) · fork | Pet adoption and temporary custody with blockchain-backed trust features. | React, TypeScript |
+| [TeachLink backend](https://github.com/lekanay2005-coder/teachLink_backend) · fork | Backend for a platform to share knowledge, skills, and ideas. | TypeScript |
+| [CraftNexus](https://github.com/lekanay2005-coder/CraftNexus) · fork | Marketplace for artisans and learning resources, with Stellar payments. | Rust, Stellar |
+| [NEW-GenX](https://github.com/lekanay2005-coder/New-GenX) | A decentralized marketplace for creators, collectors, and brands. | Next.js, TypeScript, Solana, Supabase, Framer Motion |
+
+### Stellar Developer Tools and Web3
+
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [NexusID](https://github.com/lekanay2005-coder/nexusid-app) | On-chain identity and reputation on Stellar, with cross-chain wallet links. | Next.js, TypeScript, Stellar SDK, Soroban, PostgreSQL |
+| [New Moon](https://github.com/lekanay2005-coder/New-moon) | Privacy-preserving counter contract on Midnight Network. | TypeScript, Midnight |
+| [Soroban Cost Estimator](https://github.com/lekanay2005-coder/soroban-cost-estimator) · fork | Reports resource usage and fees for compiled Soroban contracts. | Rust, Stellar |
+| [Soroban Cost Linter](https://github.com/lekanay2005-coder/soroban-cost-linter) · fork | Flags resource-cost patterns in Soroban contracts. | Rust, Soroban |
+| [Sub Rosa · Drips Stellar Wave](https://github.com/lekanay2005-coder/sub-rosa-drips) · fork | Contribution workspace for the Drips Network Stellar Wave program. | TypeScript, Stellar |
+
+## All Public Repositories
 
 <details>
 <summary><strong>🌌 Stellar & Soroban · 32 repositories</strong></summary>
@@ -194,6 +251,29 @@ Here are my **80 public repositories**, grouped using their names and visible de
 </details>
 
 [Browse all public repositories →](https://github.com/lekanay2005-coder?tab=repositories)
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=lekanay2005-coder&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub profile statistics">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lekanay2005-coder&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most-used languages in public repositories">
+
+<img width="65%" src="https://streak-stats.demolab.com?user=lekanay2005-coder&theme=tokyonight&hide_border=true&background=0d1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub contribution streak">
+
+</div>
+
+## Contribution Activity
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lekanay2005-coder/lekanay2005-coder/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lekanay2005-coder/lekanay2005-coder/output/github-snake.svg">
+  <img src="https://raw.githubusercontent.com/lekanay2005-coder/lekanay2005-coder/output/github-snake.svg" alt="Animated snake following my GitHub contribution graph">
+</picture>
+</div>
+
+*The snake refreshes automatically each day.*
 
 ## Find me online
 
